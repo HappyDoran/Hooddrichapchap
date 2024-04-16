@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CachedManifest</key>
+	<dict>
+		<key>manifestData</key>
+		<data>
+		eyJkZXBlbmRlbmNpZXMiOltdLCJkaXNwbGF5TmFtZSI6Ikhvb2RkcmljaGFw
+		Y2hhcCIsInBhY2thZ2VLaW5kIjp7InJvb3QiOnt9fSwicGxhdGZvcm1zIjpb
+		eyJvcHRpb25zIjpbXSwicGxhdGZvcm1OYW1lIjoiaW9zIiwidmVyc2lvbiI6
+		IjE3LjAifV0sInByb2R1Y3RzIjpbeyJuYW1lIjoiSG9vZGRyaWNoYXBjaGFw
+		Iiwic2V0dGluZ3MiOlt7ImJ1bmRsZUlkZW50aWZpZXIiOlsiY29tLlNlb2Rv
+		bmd3b24uSG9vZGRyaWNoYXBjaGFwIl19LHsidGVhbUlkZW50aWZpZXIiOlsi
+		VTZDQ0Q1QlQyMiJdfSx7ImRpc3BsYXlWZXJzaW9uIjpbIjEuMCJdfSx7ImJ1
+		bmRsZVZlcnNpb24iOlsiMSJdfSx7ImlPU0FwcEluZm8iOlt7ImFjY2VudENv
+		bG9yIjp7InByZXNldENvbG9yIjp7InByZXNldENvbG9yIjp7InJhd1ZhbHVl
+		IjoiYmx1ZSJ9fX0sImFwcEljb24iOnsiYXNzZXQiOnsibmFtZSI6IkFwcElj
+		b24ifX0sImNhcGFiaWxpdGllcyI6W3sicHVycG9zZSI6ImxvY2F0aW9uV2hl
+		bkluVXNlIiwicHVycG9zZVN0cmluZyI6IlVua25vd24gVXNhZ2UgRGVzY3Jp
+		cHRpb24ifV0sInN1cHBvcnRlZERldmljZUZhbWlsaWVzIjpbInBhZCIsInBo
+		b25lIl0sInN1cHBvcnRlZEludGVyZmFjZU9yaWVudGF0aW9ucyI6W3sicG9y
+		dHJhaXQiOnt9fSx7ImxhbmRzY2FwZVJpZ2h0Ijp7fX0seyJsYW5kc2NhcGVM
+		ZWZ0Ijp7fX0seyJwb3J0cmFpdFVwc2lkZURvd24iOnsiY29uZGl0aW9uIjp7
+		ImRldmljZUZhbWlsaWVzIjpbInBhZCJdfX19XX1dfV0sInRhcmdldHMiOlsi
+		QXBwTW9kdWxlIl0sInR5cGUiOnsiZXhlY3V0YWJsZSI6bnVsbH19XSwidGFy
+		Z2V0TWFwIjp7IkFwcE1vZHVsZSI6eyJkZXBlbmRlbmNpZXMiOltdLCJleGNs
+		dWRlIjpbXSwibmFtZSI6IkFwcE1vZHVsZSIsInBhY2thZ2VBY2Nlc3MiOmZh
+		bHNlLCJwYXRoIjoiLiIsInJlc291cmNlcyI6W3sicGF0aCI6IlJlc291cmNl
+		cyIsInJ1bGUiOnsicHJvY2VzcyI6e319fV0sInNldHRpbmdzIjpbXSwidHlw
+		ZSI6ImV4ZWN1dGFibGUifX0sInRhcmdldHMiOlt7ImRlcGVuZGVuY2llcyI6
+		W10sImV4Y2x1ZGUiOltdLCJuYW1lIjoiQXBwTW9kdWxlIiwicGFja2FnZUFj
+		Y2VzcyI6ZmFsc2UsInBhdGgiOiIuIiwicmVzb3VyY2VzIjpbeyJwYXRoIjoi
+		UmVzb3VyY2VzIiwicnVsZSI6eyJwcm9jZXNzIjp7fX19XSwic2V0dGluZ3Mi
+		OltdLCJ0eXBlIjoiZXhlY3V0YWJsZSJ9XSwidG9vbHNWZXJzaW9uIjp7Il92
+		ZXJzaW9uIjoiNS44LjAifX0=
+		</data>
+		<key>manifestHash</key>
+		<data>
+		c3gbzkakbxNjg+EUerNCWEZU6YeJmSk5SjDfGoRS6Po=
+		</data>
+		<key>schemaVersion</key>
+		<integer>4</integer>
+		<key>swiftPMVersionString</key>
+		<string>5.9.0</string>
+	</dict>
+</dict>
+</plist>
